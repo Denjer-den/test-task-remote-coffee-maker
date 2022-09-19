@@ -1,0 +1,7 @@
+com\dkrysov\remotecoffeemaker\model\RestController.class
+com\dkrysov\remotecoffeemaker\RemoteCoffeemakerApplication.class
+com\dkrysov\remotecoffeemaker\model\CoffeeMaker.class
+com\dkrysov\remotecoffeemaker\model\CoffeeMakerController.class
+com\dkrysov\remotecoffeemaker\repository\CoffeeMakerRepository.class
+com\dkrysov\remotecoffeemaker\ServletInitializer.class
+com\dkrysov\remotecoffeemaker\config\SwaggerConfig.class
